@@ -1,0 +1,30 @@
+.navbar-default {
+    background-color: #009900;
+    border-color: #009900;
+}
+
+.navbar-default .navbar-nav li a {
+    color: #FFF;
+}
+
+.navbar-default .navbar-nav .active a, .navbar-default .navbar-nav .active a:focus, .navbar-default .navbar-nav .active a:hover {
+    background-color: #004c00;
+    color: #FFFF00;
+}
+
+.navbar-default .navbar-brand {
+    color: #FFFF00;
+}
+
+.amazingness h3{
+    color: #009900;
+}
+
+.amazingness{
+    text-align: center;
+}
+
+.navbar-default .navbar-brand img {
+    height: 30px;
+    vertical-align: center;
+}
